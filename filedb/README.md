@@ -5,7 +5,7 @@ Ce projet peut servir de première étape pour le kata [file-to-api]
 
 [file-to-api]: https://github.com/ParisRubyWorkshop/file-to-api-kata
 
-```
+```rb
 db = FileDb.new("data.json")
 
 movies = db.table("movies")
