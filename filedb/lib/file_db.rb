@@ -1,2 +1,2 @@
-require_relative 'filedb/database'
-require_relative 'filedb/table'
+require_relative 'file_db/database'
+require_relative 'file_db/table'
